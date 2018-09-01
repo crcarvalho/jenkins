@@ -1,0 +1,9 @@
+Started on 01/09/2018 00:28:45
+Using strategy: Default
+[poll] Last Built Revision: Revision ba08b225e6c27a427607003acd306bec99529894 (refs/remotes/origin/dev)
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git ls-remote -h https://github.com/crcarvalho/fiap.git # timeout=10
+Found 1 remote heads on https://github.com/crcarvalho/fiap.git
+[poll] Latest remote head revision on refs/heads/dev is: 2ba9c7ac06a2f630cd02ce5d158f527c0b428e05
+Done. Took 1,7 segundos
+Changes found

@@ -1,0 +1,28 @@
+commit 2adcb14e19e29a9c81b3a987a4a2c6fff5dbab84
+tree cd8b85fdbdf3063c163375af1b78f2b582f71f5f
+parent 06512f635feb31b2d3b56175363699fcb221aacc
+author crcarvalho <c_r_carvalho@hotmail.com> 2018-08-27 19:08:31 -0300
+committer crcarvalho <c_r_carvalho@hotmail.com> 2018-08-27 19:08:31 -0300
+
+    Troca de pastas
+
+
+
+:100644 100644 fae1a2b37d5e3386c9651caedb78b9bd107715bd fae1a2b37d5e3386c9651caedb78b9bd107715bd R100	camel-activemq-producer-master/.classpath	.classpath
+:100644 100644 5202e4381a46d813e093cdd37641f76a362a6927 5202e4381a46d813e093cdd37641f76a362a6927 R100	camel-activemq-producer-master/.project	.project
+:100644 100644 6e80039d3b822e65e46fbf18906ef652814e9505 6e80039d3b822e65e46fbf18906ef652814e9505 R100	camel-activemq-producer-master/.settings/org.eclipse.jdt.core.prefs	.settings/org.eclipse.jdt.core.prefs
+:100644 100644 f897a7f1cb2389f85fe6381425d29f0a9866fb65 f897a7f1cb2389f85fe6381425d29f0a9866fb65 R100	camel-activemq-producer-master/.settings/org.eclipse.m2e.core.prefs	.settings/org.eclipse.m2e.core.prefs
+:100644 100644 f2cd06c22c8a4270bdafece61ff1531227b7a53c f2cd06c22c8a4270bdafece61ff1531227b7a53c R100	camel-activemq-producer-master/README.md	README.md
+:100644 100644 ba9f62feb83000970ac359b17ec95c9f166cd1d7 ba9f62feb83000970ac359b17ec95c9f166cd1d7 R100	camel-activemq-producer-master/input/venda001.xml	input/venda001.xml
+:100644 100644 73ef75f87d62ffeff40a705264ffd27803150b3f 73ef75f87d62ffeff40a705264ffd27803150b3f R100	camel-activemq-producer-master/input/venda002.xml	input/venda002.xml
+:100644 100644 0a740a1b1ced68707844cab503236d6d289e473e 0a740a1b1ced68707844cab503236d6d289e473e R100	camel-activemq-producer-master/input/venda003.xml	input/venda003.xml
+:100644 100644 2cbbb590fc18efbe1e85ebcc31dcb11f3a09a7ea 2cbbb590fc18efbe1e85ebcc31dcb11f3a09a7ea R100	camel-activemq-producer-master/pom.xml	pom.xml
+:100644 100644 234b7f67790180987dc2484bee78885e62e561a7 234b7f67790180987dc2484bee78885e62e561a7 R100	camel-activemq-producer-master/src/main/java/br/com/fiap/scj31/amb/RouteProducer.java	src/main/java/br/com/fiap/scj31/amb/RouteProducer.java
+:100644 100644 0b339b5b5ed009eef2e1fa49b405272f97e4f90f 0b339b5b5ed009eef2e1fa49b405272f97e4f90f R100	camel-activemq-producer-master/target/classes/META-INF/MANIFEST.MF	target/classes/META-INF/MANIFEST.MF
+:100644 100644 b10337a66d2d84db4db43f7583380b9ab12a2061 b10337a66d2d84db4db43f7583380b9ab12a2061 R100	camel-activemq-producer-master/target/classes/META-INF/maven/br.com.fiap.scj31.amb/camel-activemq-producer/pom.properties	target/classes/META-INF/maven/br.com.fiap.scj31.amb/camel-activemq-producer/pom.properties
+:100644 100644 2cbbb590fc18efbe1e85ebcc31dcb11f3a09a7ea 2cbbb590fc18efbe1e85ebcc31dcb11f3a09a7ea R100	camel-activemq-producer-master/target/classes/META-INF/maven/br.com.fiap.scj31.amb/camel-activemq-producer/pom.xml	target/classes/META-INF/maven/br.com.fiap.scj31.amb/camel-activemq-producer/pom.xml
+:100644 100644 2e53886913d1aa6e312b99762f75c6c17cc9a4e6 2e53886913d1aa6e312b99762f75c6c17cc9a4e6 R100	camel-activemq-producer-master/target/classes/br/com/fiap/scj31/amb/RouteProducer$1.class	target/classes/br/com/fiap/scj31/amb/RouteProducer$1.class
+:100644 100644 dd189e6109b6b964a43aa73c18a2abb57440f129 dd189e6109b6b964a43aa73c18a2abb57440f129 R100	camel-activemq-producer-master/target/classes/br/com/fiap/scj31/amb/RouteProducer.class	target/classes/br/com/fiap/scj31/amb/RouteProducer.class
+:100644 100644 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 R100	camel-activemq-producer-master/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst	target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+:100644 100644 13116fabd7bc33a87d80f6a1080eb53284a7a7b3 13116fabd7bc33a87d80f6a1080eb53284a7a7b3 R100	camel-activemq-producer-master/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst	target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+:100644 000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 0000000000000000000000000000000000000000 D	teste.txt

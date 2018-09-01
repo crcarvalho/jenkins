@@ -1,0 +1,9 @@
+Started on 01/09/2018 00:57:45
+Using strategy: Default
+[poll] Last Built Revision: Revision b913e48d6facb04f04be6f4ff625f4618b067bf8 (refs/remotes/origin/dev)
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git ls-remote -h https://github.com/crcarvalho/fiap-consumer.git # timeout=10
+Found 2 remote heads on https://github.com/crcarvalho/fiap-consumer.git
+[poll] Latest remote head revision on refs/heads/dev is: cb08329a8f4a55ae77d0bb6f1cbc70edfe2a428b
+Done. Took 1,5 segundos
+Changes found

@@ -1,0 +1,32 @@
+Iniciado pelo usuário [8mha:////4OS92LxYUY538NUYoS16ehMvLPXs+3yG6J9LdzjAh7nBAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Construindo no workspace C:\Program Files (x86)\Jenkins\workspace\maven-project
+ > C:\Program Files\Git\bin\git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git config remote.origin.url https://github.com/crcarvalho/fiap.git # timeout=10
+Fetching upstream changes from https://github.com/crcarvalho/fiap.git
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git fetch --tags --progress https://github.com/crcarvalho/fiap.git +refs/heads/*:refs/remotes/origin/*
+ > C:\Program Files\Git\bin\git rev-parse "refs/remotes/origin/dev^{commit}" # timeout=10
+ > C:\Program Files\Git\bin\git rev-parse "refs/remotes/origin/origin/dev^{commit}" # timeout=10
+Checking out Revision 06512f635feb31b2d3b56175363699fcb221aacc (refs/remotes/origin/dev)
+ > C:\Program Files\Git\bin\git config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git checkout -f 06512f635feb31b2d3b56175363699fcb221aacc
+Commit message: "teste"
+ > C:\Program Files\Git\bin\git rev-list --no-walk 06512f635feb31b2d3b56175363699fcb221aacc # timeout=10
+[maven-project] $ cmd.exe /C '""C:\Program Files\apache-maven-3.5.4\bin\mvn.cmd"' clean package && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 0.104 s
+[INFO] Finished at: 2018-08-27T18:53:03-03:00
+[INFO] ------------------------------------------------------------------------
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] The goal you specified requires a project to execute but there is no POM in this directory (C:\Program Files (x86)\Jenkins\workspace\maven-project). Please verify you invoked Maven from the correct directory. -> [Help 1]
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] 
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] 
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] For more information about the errors and possible solutions, please read the following articles:
+[8mha:////4L0B1vqCVoiFHl71oRBkVe/KpfegxIHHJsNhobvrZwpEAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEuhYV5Rf55ZekOlc7RKnPKH7IxMBQUcQgBdWQnJ9XnJ+TqucMoUEKGSCAEaSwAACsNFCqYAAAAA==[0m[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MissingProjectException
+Build step 'Chamar alvos Maven de alto nível' marked build as failure
+Finished: FAILURE

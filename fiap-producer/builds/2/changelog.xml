@@ -1,0 +1,11 @@
+commit 06512f635feb31b2d3b56175363699fcb221aacc
+tree e4a3a1bd79be01f96cc2088b0c22758ea6578673
+parent 5a76e2ace763a81447dfd4e32d6205fa52a5183a
+author crcarvalho <c_r_carvalho@hotmail.com> 2018-08-27 18:49:21 -0300
+committer crcarvalho <c_r_carvalho@hotmail.com> 2018-08-27 18:49:21 -0300
+
+    teste
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 A	teste.txt

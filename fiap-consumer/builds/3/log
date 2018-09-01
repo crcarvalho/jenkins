@@ -1,0 +1,13 @@
+Iniciado por uma mudança no SCM
+Construindo no workspace C:\Program Files (x86)\Jenkins\workspace\fiap-consumer
+ > C:\Program Files\Git\bin\git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git config remote.origin.url https://github.com/crcarvalho/fiap-consumer.git # timeout=10
+Fetching upstream changes from https://github.com/crcarvalho/fiap-consumer.git
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git fetch --tags --progress https://github.com/crcarvalho/fiap-consumer.git +refs/heads/*:refs/remotes/origin/*
+ > C:\Program Files\Git\bin\git rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > C:\Program Files\Git\bin\git rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+ > C:\Program Files\Git\bin\git rev-parse "origin/master^{commit}" # timeout=10
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+Finished: FAILURE

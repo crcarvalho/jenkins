@@ -1,0 +1,53 @@
+Iniciado pelo usuário [8mha:////4OS92LxYUY538NUYoS16ehMvLPXs+3yG6J9LdzjAh7nBAAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzWEgZu/dLi1CL9xJTczDwAj6GcLcAAAAA=[0madmin
+Construindo no workspace C:\Program Files (x86)\Jenkins\workspace\fiap-consumer
+ > C:\Program Files\Git\bin\git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > C:\Program Files\Git\bin\git config remote.origin.url https://github.com/crcarvalho/fiap-consumer.git # timeout=10
+Fetching upstream changes from https://github.com/crcarvalho/fiap-consumer.git
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git fetch --tags --progress https://github.com/crcarvalho/fiap-consumer.git +refs/heads/*:refs/remotes/origin/*
+ > C:\Program Files\Git\bin\git rev-parse "refs/remotes/origin/dev^{commit}" # timeout=10
+ > C:\Program Files\Git\bin\git rev-parse "refs/remotes/origin/origin/dev^{commit}" # timeout=10
+Checking out Revision 5ba92f631817bf2eb5482bbaa2d051aa09f44208 (refs/remotes/origin/dev)
+ > C:\Program Files\Git\bin\git config core.sparsecheckout # timeout=10
+ > C:\Program Files\Git\bin\git checkout -f 5ba92f631817bf2eb5482bbaa2d051aa09f44208
+Commit message: "removido arquivo"
+ > C:\Program Files\Git\bin\git rev-list --no-walk 5ba92f631817bf2eb5482bbaa2d051aa09f44208 # timeout=10
+[fiap-consumer] $ cmd.exe /C '""C:\Program Files\apache-maven-3.5.4\bin\mvn.cmd"' clean package && exit %%ERRORLEVEL%%"
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------< br.com.fiap.scj31.amb:camel-activemq-consumer >------------
+[INFO] Building camel-activemq-consumer 0.0.1-SNAPSHOT
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-clean-plugin:2.5:clean (default-clean) @ camel-activemq-consumer ---
+[INFO] Deleting C:\Program Files (x86)\Jenkins\workspace\fiap-consumer\target
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:resources (default-resources) @ camel-activemq-consumer ---
+[8mha:////4DAxkyuo3jTwC1ko+Rl9/h+Ziq6erde0aOAZ4M6p2atSAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\fiap-consumer\src\main\resources
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:compile (default-compile) @ camel-activemq-consumer ---
+[INFO] Changes detected - recompiling the module!
+[8mha:////4DAxkyuo3jTwC1ko+Rl9/h+Ziq6erde0aOAZ4M6p2atSAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 1 source file to C:\Program Files (x86)\Jenkins\workspace\fiap-consumer\target\classes
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-resources-plugin:2.6:testResources (default-testResources) @ camel-activemq-consumer ---
+[8mha:////4DAxkyuo3jTwC1ko+Rl9/h+Ziq6erde0aOAZ4M6p2atSAAAAYx+LCAAAAAAAAP9b85aBtbiIQSWjNKU4P0+vJLE4u1gvPjexLDVPzxdEhicW5WXmpfvll6S2fNly5fzGzauYGBgqihikoFqS8/OK83NS9ZwhNEghAwQwghQWAACwxA+XYgAAAA==[0m[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Program Files (x86)\Jenkins\workspace\fiap-consumer\src\test\resources
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-compiler-plugin:3.1:testCompile (default-testCompile) @ camel-activemq-consumer ---
+[INFO] No sources to compile
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-surefire-plugin:2.12.4:test (default-test) @ camel-activemq-consumer ---
+[INFO] No tests to run.
+[INFO] 
+[8mha:////4JTSLIQLmCQywHmNz+4DgdcBP2QNJDLx7LfFq8qOOh8qAAAAYB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P0+vJLE4u1gvPjexLDVPzxdEGvvmZ+X75ZekLlOVfvTjc8FPJgaGiiIGKaiG5Py84vycVD1nCA1SyAABjCCFBQCV27OjYAAAAA==[0m[INFO] --- maven-jar-plugin:2.4:jar (default-jar) @ camel-activemq-consumer ---
+[INFO] Building jar: C:\Program Files (x86)\Jenkins\workspace\fiap-consumer\target\camel-activemq-consumer-0.0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time: 3.493 s
+[INFO] Finished at: 2018-08-30T13:59:57-03:00
+[INFO] ------------------------------------------------------------------------
+Finished: SUCCESS

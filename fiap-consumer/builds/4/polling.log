@@ -1,0 +1,8 @@
+Started on 29/08/2018 19:10:50
+Using strategy: Default
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git ls-remote -h https://github.com/crcarvalho/fiap-consumer.git # timeout=10
+Unexpected ls-remote output line ''
+[poll] Couldn't get remote head revision
+Done. Took 1,2 segundos
+Changes found

@@ -1,0 +1,11 @@
+commit b913e48d6facb04f04be6f4ff625f4618b067bf8
+tree 857a62163205bad890c0c160d819f8836fe31d70
+parent 5ba92f631817bf2eb5482bbaa2d051aa09f44208
+author crcarvalho <c_r_carvalho@hotmail.com> 2018-08-30 14:08:53 -0300
+committer crcarvalho <c_r_carvalho@hotmail.com> 2018-08-30 14:08:53 -0300
+
+    Adicionado arquivo
+
+
+
+:000000 100644 0000000000000000000000000000000000000000 0a740a1b1ced68707844cab503236d6d289e473e A	output/venda003.xml

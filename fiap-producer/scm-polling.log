@@ -1,0 +1,9 @@
+Started on 01/09/2018 11:06:38
+Using strategy: Default
+[poll] Last Built Revision: Revision 0bdb6bc2ee84366a278f67bb9eae50583207e7f1 (refs/remotes/origin/dev)
+ > C:\Program Files\Git\bin\git --version # timeout=10
+ > C:\Program Files\Git\bin\git ls-remote -h https://github.com/crcarvalho/fiap-producer.git # timeout=10
+Found 1 remote heads on https://github.com/crcarvalho/fiap-producer.git
+[poll] Latest remote head revision on refs/heads/dev is: 0bdb6bc2ee84366a278f67bb9eae50583207e7f1 - already built by 16
+Done. Took 1,5 segundos
+No changes
